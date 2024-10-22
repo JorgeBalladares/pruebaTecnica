@@ -1,14 +1,1 @@
-package com.price;
-
-
-import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
-
-@SpringBootApplication
-public class DemoApplication {
-
-	public static void main(String[] args) {
-		SpringApplication.run(DemoApplication.class, args);
-	}
-
-}
+https://fortify-ssc.isban.gs.corp/ssc/html/ssc/version/102930/audit?filterset=a243b195-0a59-3f8b-1403-d55b7a7d78e6&orderby=friority&viewTab=code
